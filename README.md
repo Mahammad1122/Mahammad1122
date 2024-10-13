@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Exam Website<br>🌱 I’m currently learning React native, java script, React js<br>i am pursuing my BCA Degree
+🔭 I’m currently working on Exam Website<br>🌱 I’m currently learning React native, java script, React js
 
 
 ## 🌐 Socials:
